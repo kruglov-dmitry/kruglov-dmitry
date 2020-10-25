@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=kruglov-dmitry&count_private=true)
+![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=kruglov-dmitry&count_private=true).  
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kruglov-dmitry)
 
 
 <!--
