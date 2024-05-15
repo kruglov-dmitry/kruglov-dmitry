@@ -1,15 +1,23 @@
+<table>
+<tr>
+<td><img src="dmitry-kruglov.jpeg" alt="Dmitry Kruglov" width="150"></td>
+<td>
+
 👋 Hi there!
 
 My name is Dmitry.
 
 I build software and teams that build software (with joy).  
 
-Distributed systems, data and backend.  
+Data, backend, distributed systems.  
 Performance tuning.  
 Lately a lot of flutter based development.
 
+</td>
+</tr>
+</table>
 
-# What am I about?
+### What am I about?
 
 - **KISS** > **DRY**
   - **YAGNI** - as a efficient pill to prevent over-engineering
@@ -28,11 +36,9 @@ Lately a lot of flutter based development.
 - **TECH DEBT** definition depend on product's and company's stage:
   - not all bugs should be fixed, not all bugs should be fixed now 
 
-oh, and one last, but very important:
+oh, and one last, but **very important:**
 
-## Engineering is fun! :D
-
-
+### Engineering is fun! :D
 
 
 ### My toolset 🛠️
@@ -44,7 +50,7 @@ oh, and one last, but very important:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 
-### Used to work with
+### Used to heavily worked with
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
@@ -55,21 +61,3 @@ oh, and one last, but very important:
 ![](https://img.shields.io/badge/BigData-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
-
-
-
-
-<!--
-**kruglov-dmitry/kruglov-dmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
