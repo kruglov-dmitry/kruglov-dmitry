@@ -3,15 +3,16 @@
 <td><img src="dmitry-kruglov.jpeg" alt="Dmitry Kruglov" width="150"></td>
 <td>
 
-### 👋 Hi there!
+### 👋 Hi, I'm Dmitry
 
-My name is Dmitry.
+I build software **and** the teams that build it (with joy).  
+Principal engineer, ex-CTO, startup advisor.
 
-I build software and teams that build software (with joy).  
+I help companies go from **0 → MVP**, and MVP → **scale**.  
 
-(Big)Data, backend, distributed systems.  
-Performance tuning.  
-Lately: FastAPI with a bit of Rust and Terraform.
+⚙️ 20+ years across B2B, B2C, and deep tech  
+🚀 Built platforms serving **50k+ users**, 3x’d performance, cut time-to-market by 75%  
+🧱 Hands-on: lately a lot of FastAPI, NextJS, Rust, K8S and Terraform
 
 </td>
 
