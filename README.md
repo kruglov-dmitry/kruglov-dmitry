@@ -9,20 +9,20 @@ My name is Dmitry.
 
 I build software and teams that build software (with joy).  
 
-Data, backend, distributed systems.  
+(Big)Data, backend, distributed systems.  
 Performance tuning.  
-Lately a lot of flutter based development.
+Lately: FastAPI with a bit of Rust and Terraform.
 
 </td>
 
 <td>
 
-### What I am about?
+### What I care about
 
 - **KISS** > DRY
 - **TEAM** >> IC
 - **LEARN** => **GROWTH**
-- **PRODUCT** mentality among engs
+- Engineers who think in **PRODUCT** terms
 
 extended list is [here](https://github.com/kruglov-dmitry/about)
 </td>
